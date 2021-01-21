@@ -1,3 +1,17 @@
+# 2.1.4
+
+* Drop dependency on f library.
+
+# 2.1.3
+
+* Update password-store-clear docstring; clarify that the
+  optional argument is only used in the print out message.
+
+# 2.1.2
+
+* Make argument optional in password-store-clear to preserve
+  backward compatibility.
+
 # 2.1.1
 
 * (bugfix) Check that auth-source-pass-filename is bound before use it.
